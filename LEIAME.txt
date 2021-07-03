@@ -1,0 +1,11 @@
+Participante:
+Karina Duran Munhos - 11295911
+
+Para compilar em linha de comando:
+Já na pasta que contém os arquivos digite:
+ javac *.java
+ ou javac Ball.java Score.java Player.java
+
+Em seguida para executar:
+ java Pong
+
